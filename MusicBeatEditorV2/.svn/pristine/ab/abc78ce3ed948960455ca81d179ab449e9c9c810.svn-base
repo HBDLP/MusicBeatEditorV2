@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d922da503f5c46244ba1e199d8dd6c60, type: 3}
+  m_Name: MusicBeatRes
+  m_EditorClassIdentifier: 
+  _comboPerBeatInHold: 2
+  _skin: {fileID: 11400000, guid: f94a71f352fb5744a88b833123ffe568, type: 2}
+  _clearTexture: {fileID: 2800000, guid: d87cad11b73c90645a7dc9c299ae3dd5, type: 3}
+  _yeahTexture: {fileID: 2800000, guid: 704a30a0612fa9c44b1eac1eb138642a, type: 3}
+  _noteTextures:
+  - {fileID: 2800000, guid: c64b123ca838a1f46992db70800bccfb, type: 3}
+  - {fileID: 2800000, guid: 73c5170e9baa99e4297919c9184043f1, type: 3}
+  - {fileID: 2800000, guid: f2b02438a786fcb42b83c187b5d8575c, type: 3}
+  - {fileID: 2800000, guid: 201c3b5e3acabc04d9262604dff12820, type: 3}
+  - {fileID: 2800000, guid: 2fb6841be60e5cb479b13fe1da194539, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _noteEndTextures:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 2800000, guid: d9ddcf018ecc99b4faca8278c108bb3d, type: 3}
+  - {fileID: 2800000, guid: 2b8bf5152cae24c4881d3a272c5430eb, type: 3}
+  - {fileID: 2800000, guid: 419e805a49ba87146b9f8762d6b76120, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _NoteAudioClips:
+  - {fileID: 8300000, guid: 018a54134938fe54ab4e4541be946f5a, type: 3}
+  - {fileID: 8300000, guid: 018a54134938fe54ab4e4541be946f5a, type: 3}
+  - {fileID: 8300000, guid: 018a54134938fe54ab4e4541be946f5a, type: 3}
+  - {fileID: 8300000, guid: 018a54134938fe54ab4e4541be946f5a, type: 3}
+  - {fileID: 8300000, guid: 018a54134938fe54ab4e4541be946f5a, type: 3}
+  - {fileID: 8300000, guid: 018a54134938fe54ab4e4541be946f5a, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _NoteEndAudioClips:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _bossNoteNormal: {fileID: 2800000, guid: a8f1b8c5681e968498880cc1e8809095, type: 3}
+  _bossNoteReverse: {fileID: 2800000, guid: c319c37a3c2745a4691b232e502078b9, type: 3}
